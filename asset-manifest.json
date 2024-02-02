@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Phalanx/static/css/main.853b6a86.css",
-    "main.js": "/Phalanx/static/js/main.70fbfe1d.js",
+    "main.js": "/Phalanx/static/js/main.b745da73.js",
     "static/js/787.d4aba7ab.chunk.js": "/Phalanx/static/js/787.d4aba7ab.chunk.js",
     "static/media/histort.jpg": "/Phalanx/static/media/histort.0a916fc921e7f8169fc1.jpg",
     "static/media/introBack.png": "/Phalanx/static/media/introBack.a3a534f80a92a4793ff5.png",
     "index.html": "/Phalanx/index.html",
     "main.853b6a86.css.map": "/Phalanx/static/css/main.853b6a86.css.map",
-    "main.70fbfe1d.js.map": "/Phalanx/static/js/main.70fbfe1d.js.map",
+    "main.b745da73.js.map": "/Phalanx/static/js/main.b745da73.js.map",
     "787.d4aba7ab.chunk.js.map": "/Phalanx/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.853b6a86.css",
-    "static/js/main.70fbfe1d.js"
+    "static/js/main.b745da73.js"
   ]
 }
