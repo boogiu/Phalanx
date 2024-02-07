@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Phalanx/static/css/main.5a3b663e.css",
-    "main.js": "/Phalanx/static/js/main.55d3b4db.js",
+    "main.js": "/Phalanx/static/js/main.cbadff12.js",
     "static/js/787.d4aba7ab.chunk.js": "/Phalanx/static/js/787.d4aba7ab.chunk.js",
     "static/media/introBack.png": "/Phalanx/static/media/introBack.a3a534f80a92a4793ff5.png",
     "index.html": "/Phalanx/index.html",
     "main.5a3b663e.css.map": "/Phalanx/static/css/main.5a3b663e.css.map",
-    "main.55d3b4db.js.map": "/Phalanx/static/js/main.55d3b4db.js.map",
+    "main.cbadff12.js.map": "/Phalanx/static/js/main.cbadff12.js.map",
     "787.d4aba7ab.chunk.js.map": "/Phalanx/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a3b663e.css",
-    "static/js/main.55d3b4db.js"
+    "static/js/main.cbadff12.js"
   ]
 }
